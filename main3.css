@@ -1,0 +1,10 @@
+ .box {
+  background-color: #79797f;
+  width: 150px;
+  height: 150px;
+  transition: background-color 1s ease-in-out 1s;
+}
+
+.box:hover {
+    background-color: #e84610;
+}
