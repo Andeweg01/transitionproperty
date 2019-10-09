@@ -1,0 +1,9 @@
+a {
+    color: #bada55;
+    transition: color 1s ease-in-out;
+}
+
+a:hover {
+    color: #000; /* black */
+}
+
